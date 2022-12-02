@@ -8,6 +8,7 @@ import java.util.Random;
 import java.util.Scanner;
 
     public class CouponNumber {
+        
         public static void main(String[] args) throws NumberFormatException, IOException {
             int choice = 0;
             do {
