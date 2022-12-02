@@ -1,4 +1,4 @@
-package logicalprogramming;
+package com.logicalprogramming;
 
     import java.util.Scanner;
 
