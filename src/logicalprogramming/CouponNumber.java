@@ -1,4 +1,4 @@
-package logicalprogramming;
+package com.logicalprogramming;
 
     import java.io.BufferedReader;
 import java.io.IOException;
